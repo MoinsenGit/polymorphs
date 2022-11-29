@@ -1,4 +1,6 @@
-package de.neuefische;
+package de.neuefische.animalInterface;
+
+import de.neuefische.animalInterface.Animal;
 
 public class Cat implements Animal {
 

@@ -1,4 +1,4 @@
-package de.neuefische;
+package de.neuefische.students;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

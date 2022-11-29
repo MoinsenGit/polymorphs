@@ -1,5 +1,6 @@
-package de.neuefische;
+package de.neuefische.animalInterface;
 
+import de.neuefische.animalInterface.Animal;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
